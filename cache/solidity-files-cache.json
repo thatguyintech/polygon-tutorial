@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/thatguyintech/Documents/co/polygon-tutorial-delete-this/contracts/HelloWorld.sol": {
+      "lastModificationDate": 1638399498219,
+      "contentHash": "d90dac8b088eb3ca820599c7db12a7de",
+      "sourceName": "contracts/HelloWorld.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.9"
+      ],
+      "artifacts": [
+        "HelloWorld"
+      ]
+    }
+  }
+}
